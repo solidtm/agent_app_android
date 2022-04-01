@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#46B2C8</color>
+    <color name="colorPrimaryDark">#115766</color>
+    <color name="colorAccent">#46B2C8</color>
+
+    <color name="colorTextPrimary">#757575</color>
+    <color name="colorTextSecondary">#115766</color>
+    <color name="colorBackground">#FFFFFFFF</color>
+
+    <color name="colorOnBoardingIndicatorActive1">#EC7A07</color>
+    <color name="colorOnBoardingIndicatorActive2">#21BFAF</color>
+    <color name="colorOnBoardingIndicatorActive3">#FF5454</color>
+    <color name="colorOnBoardingIndicatorActive4">#46B2C8</color>
+
+    <color name="signUpBorderColor">#6E7E82</color>
+    <color name="createNewPassTextColor">#637381</color>
+
+<!--    homepage colors-->
+    <color name="switchColorChecked">#46B2C8</color>
+    <color name="switchColorUnchecked">#6E7E82</color>
+    <color name="thumb_unchecked">#DDE2E5</color>
+
+    //colors for sign up and login page
+    //login page colors
+    <color name="accountLoginText">#FF993B</color>
+<!--    the login button color is the same as color primary-->
+<!--    taskbar color is the same as colorPrimaryDark-->
+<!--    signuptextColor is same as colorTextSecondary-->
+<!--    want to be an agent? color is same as colorTextPrimary-->
+
+<!--    settings fragment colors-->
+    <color name="setTextColor">#434343</color>
+    <color name="switchcolor">#4C963F</color>
+    <color name="signOutColor">#FF0000</color>
+
+<!--    unused colors-->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>
